@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Plant 1",
+    "imageURL": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e"
+  },
+  {
+    "id": 2,
+    "title": "Plant 2",
+    "imageURL": "https://images.unsplash.com/photo-1545147986-a9d6f2ab03b5"
+  },
+  {
+    "id": 3,
+    "title": "Plant 3",
+    "imageURL": "https://images.unsplash.com/photo-1463320898484-cdee8141c787"
+  },
+  {
+    "id": 4,
+    "title": "Plant 4",
+    "imageURL": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a"
+  },
+  {
+    "id": 5,
+    "title": "Plant 5",
+    "imageURL": "https://images.unsplash.com/photo-1495559493698-ae68846c94e8"
+  },
+  {
+    "id": 6,
+    "title": "Plant 6",
+    "imageURL": "https://images.unsplash.com/photo-1552863475-aa71fd1176b3"
+  }
+]
